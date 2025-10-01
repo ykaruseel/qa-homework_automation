@@ -18,11 +18,10 @@ qa-homework/
 ├── README.md
 
 ## 🚀 Как запустить
-
-```bash
+```
 npm install
 npx wdio run wdio.conf.js
-
+```
 
 
 👤
