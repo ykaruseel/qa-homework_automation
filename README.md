@@ -19,7 +19,7 @@ qa-homework/
 
 ## 🚀 Как запустить
 ```
-bash
+```bash
 npm install
 npx wdio run wdio.conf.js
 ```
