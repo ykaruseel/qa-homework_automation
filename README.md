@@ -22,7 +22,7 @@ qa-homework/
 ```bash
 npm install
 npx wdio run wdio.conf.js
-```
+
 
 
 👤
