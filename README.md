@@ -17,11 +17,13 @@ qa-homework/
 ├── package.json
 ├── README.md
 
-- ## 🚀 Как запустить
-
-  ```bash
+## 🚀 Как запустить
+```
+bash
 npm install
 npx wdio run wdio.conf.js
+```
+
 
 👤
 Serhii Kovalenko
